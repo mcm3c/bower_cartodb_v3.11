@@ -6,7 +6,7 @@
     "CartoDB <support@cartodb.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "cartodb.js",
   "moduleType": [],
   "keywords": [
     "cartodb"
