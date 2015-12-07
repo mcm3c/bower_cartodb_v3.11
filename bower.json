@@ -1,0 +1,14 @@
+{
+  "name": "cartodb.js#3.11",
+  "homepage": "http://cartodb.com",
+  "authors": [
+    "cartodb.com"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "cartodb"
+  ],
+  "license": "MIT"
+}
