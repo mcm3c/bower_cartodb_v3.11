@@ -11,5 +11,8 @@
   "keywords": [
     "cartodb"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "*.md"
+  ]
 }
