@@ -1,14 +1,15 @@
 {
-  "name": "cartodb.js#3.11",
-  "homepage": "http://cartodb.com",
-  "authors": [
-    "cartodb.com"
+  name: 'cartodb.js#3.11',
+  homepage: 'https://github.com/mcm3c/bower_cartodb_v3.11',
+  authors: [
+    'CartoDB <support@cartodb.com>'
   ],
-  "description": "",
-  "main": "",
-  "moduleType": [],
-  "keywords": [
-    "cartodb"
+  description: '',
+  main: '',
+  moduleType: [],
+  keywords: [
+    'cartodb'
   ],
-  "license": "MIT"
+  license: 'MIT'
 }
+
